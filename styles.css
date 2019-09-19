@@ -1,0 +1,56 @@
+*{
+    background: #245060;
+    color: white;
+    text-align: center;
+    max-width: 100%;
+    margin:auto ;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.txt{
+    margin-top: 10px;
+}
+
+img{
+    margin-top: 3em;
+}
+
+button{
+    border-radius: 20px;
+    width: 10em;
+    box-shadow:  2px 2px 5px silver;
+}
+
+button:hover{
+    background: gold;
+    box-shadow: 2px 2px 5px gold;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 50px;
+}
+h1:hover{
+    color:rgb(78, 64, 64);
+}
+header{
+    margin-top: 2em;
+}
+
+i:hover{
+    color:red;
+}
+
+footer{
+    margin-top: 3em;
+}
