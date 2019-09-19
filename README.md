@@ -6,6 +6,8 @@
 
 project for Becode init to Python3
 
+link for preview : https://lorenzo-chahid.github.io/CasinoPython/
+
 ----------------------------------------------------------------------------------------------------
 
 ## Guide user
